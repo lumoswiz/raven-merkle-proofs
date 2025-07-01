@@ -1,0 +1,123 @@
+{
+  "0": {
+    "root": "0xdebe2a6b6a7784a04e72ff95bdcb75e52ce879f787b5e6a1c6937f9733e3320c",
+    "data": [
+      {
+        "index": 0,
+        "claimType": 0,
+        "claimant": "0x8d99F8b2710e6A3B94d9bf465A98E5273069aCBd",
+        "claimableAmount": "10000000000000000000000",
+        "proof": [
+          "0xbcadd9c14b206c1153b77f4411be76153a495bcea90072c95c16dc214ed5d3f4",
+          "0x9a2d112e80ad328084ceac6c2175cae951a342eeeaab1252c7287e91ad4e673d",
+          "0x0ffd60abc6c4fc82327c93bec4f8250a9487a22cae6289429c8b8f08bfff224e",
+          "0x709d13ed1f8d37e1992d903a70028e6173fde62f8574944235d59bc86645bbd4"
+        ]
+      },
+      {
+        "index": 1,
+        "claimType": 0,
+        "claimant": "0x7f01D9b227593E033bf8d6FC86e634d27aa85568",
+        "claimableAmount": "10000000000000000000000",
+        "proof": [
+          "0x46f74decedbc8158748f2bd8ddb4cdd805c3e8de2a28f6927706ae45b94b552a",
+          "0x62f95e5f9cddd5309a4e221c441b0e09a01b96ea894c0f35a4ed50e474d9c60e",
+          "0x0ffd60abc6c4fc82327c93bec4f8250a9487a22cae6289429c8b8f08bfff224e",
+          "0x709d13ed1f8d37e1992d903a70028e6173fde62f8574944235d59bc86645bbd4"
+        ]
+      },
+      {
+        "index": 2,
+        "claimType": 0,
+        "claimant": "0x345375b738CCb4d1dcC663F3Dd3Ff3907f4DD2fe",
+        "claimableAmount": "10000000000000000000000",
+        "proof": [
+          "0x454e841e5f8f70e251d250a327afaa2ecda0d43f718dfcdc3c4be5f0370617bd",
+          "0x62f95e5f9cddd5309a4e221c441b0e09a01b96ea894c0f35a4ed50e474d9c60e",
+          "0x0ffd60abc6c4fc82327c93bec4f8250a9487a22cae6289429c8b8f08bfff224e",
+          "0x709d13ed1f8d37e1992d903a70028e6173fde62f8574944235d59bc86645bbd4"
+        ]
+      },
+      {
+        "index": 3,
+        "claimType": 0,
+        "claimant": "0x968dc7336Ba79cA4304549089345F9292bBA65bB",
+        "claimableAmount": "10000000000000000000000",
+        "proof": [
+          "0xf3abf5672d584b372785d7f754f81ee39e9f8e5b11b1be5be13ca32297057ca1",
+          "0x17cdb91634d32875029cf2d55a92a386d2ed3409fd08c24be499b574aa932fb1"
+        ]
+      },
+      {
+        "index": 4,
+        "claimType": 0,
+        "claimant": "0xD0F74434D8AFa40da60d23A3B35a2F7D3e0EE326",
+        "claimableAmount": "10000000000000000000000",
+        "proof": [
+          "0xa5e1ac3bbb4de22920ed06dc49ac3fc692385d8ed4d09e8ddc678b1df4091c5a",
+          "0x9a2d112e80ad328084ceac6c2175cae951a342eeeaab1252c7287e91ad4e673d",
+          "0x0ffd60abc6c4fc82327c93bec4f8250a9487a22cae6289429c8b8f08bfff224e",
+          "0x709d13ed1f8d37e1992d903a70028e6173fde62f8574944235d59bc86645bbd4"
+        ]
+      },
+      {
+        "index": 5,
+        "claimType": 0,
+        "claimant": "0x4552e3160082f17C37c3c67C486F2eaAd7249B80",
+        "claimableAmount": "10000000000000000000000",
+        "proof": [
+          "0x1e11887c81c989e09c8ebc3262f3688a3e63a244fd2916c78be661c2896b30f6",
+          "0x7ecb5fcbe847638bf57bff98a0403a9fd7794be627afe1fe08db74b1dfe26d0c",
+          "0x502cb28ed4fd6c3a463bc4069d7e13fb497fa4691a2cd8e1679bfb20b1ee1b8b",
+          "0x709d13ed1f8d37e1992d903a70028e6173fde62f8574944235d59bc86645bbd4"
+        ]
+      },
+      {
+        "index": 6,
+        "claimType": 0,
+        "claimant": "0x2483dB8f896A7979EDaFc53501a9Bf905458fc52",
+        "claimableAmount": "10000000000000000000000",
+        "proof": [
+          "0x33f7864cebb320b2a8d73eade952477d1732913f6b24c00310a7fe1bc5257776",
+          "0x7ecb5fcbe847638bf57bff98a0403a9fd7794be627afe1fe08db74b1dfe26d0c",
+          "0x502cb28ed4fd6c3a463bc4069d7e13fb497fa4691a2cd8e1679bfb20b1ee1b8b",
+          "0x709d13ed1f8d37e1992d903a70028e6173fde62f8574944235d59bc86645bbd4"
+        ]
+      },
+      {
+        "index": 7,
+        "claimType": 0,
+        "claimant": "0x66268791B55e1F5fA585D990326519F101407257",
+        "claimableAmount": "10000000000000000000000",
+        "proof": [
+          "0x140fd64f3be7e076fa58210861951ce2e04193696bb65bcc993fb70280369f2b",
+          "0xc70f047fd19056385aaa60522b50ca4517086d9b817654721a164bf65aebd3df",
+          "0x502cb28ed4fd6c3a463bc4069d7e13fb497fa4691a2cd8e1679bfb20b1ee1b8b",
+          "0x709d13ed1f8d37e1992d903a70028e6173fde62f8574944235d59bc86645bbd4"
+        ]
+      },
+      {
+        "index": 8,
+        "claimType": 0,
+        "claimant": "0x0e53dc086db4768a19F7180B8459c68bA7135D12",
+        "claimableAmount": "10000000000000000000000",
+        "proof": [
+          "0x00e7a2589f706c70909aaa2ef77ba58e26d51f4ce0641951bfccc0454d92adf3",
+          "0xc70f047fd19056385aaa60522b50ca4517086d9b817654721a164bf65aebd3df",
+          "0x502cb28ed4fd6c3a463bc4069d7e13fb497fa4691a2cd8e1679bfb20b1ee1b8b",
+          "0x709d13ed1f8d37e1992d903a70028e6173fde62f8574944235d59bc86645bbd4"
+        ]
+      },
+      {
+        "index": 9,
+        "claimType": 0,
+        "claimant": "0x5DFA9B19235D93111D863b5F7e4508b32FDF915B",
+        "claimableAmount": "10000000000000000000000",
+        "proof": [
+          "0xda1350abc9b9006079a592041f9e8aa1935f7355c0c7ecc2658d8f93de0f79b8",
+          "0x17cdb91634d32875029cf2d55a92a386d2ed3409fd08c24be499b574aa932fb1"
+        ]
+      }
+    ]
+  }
+}
